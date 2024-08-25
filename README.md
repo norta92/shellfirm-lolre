@@ -11,15 +11,15 @@
 <h1>Opppppsss <b>you</b> did it again? :scream: :scream: :cold_sweat:</h1>
 </div>
 
-How do I save myself from myself?
+¿Cómo me salvo de mí mismo?
 * `rm -rf *`
-* `git reset --hard` Before hitting the enter key?
-* `kubectl delete ns` Stop! you are going to delete a lot of resources
-* And many more!
+* `git reset --hard` ¿Antes de pulsar la tecla Enter?
+* `kubectl delete ns` ¡Alto! Vas a eliminar muchos recursos.
+* ¡Y muchas más!
 
-Do you want to learn from other people's mistakes?
+¿Quieres aprender de los errores de otras personas?
 
-`shellfirm` will intercept any risky patterns and immediately prompt a small challenge that will double verify your action, think of it as a captcha for your terminal.
+`shellfirm`interceptará cualquier patrón riesgoso e inmediatamente solicitará un pequeño desafío que verificará dos veces su acción, piense en ello como un captcha para su terminal.
 
 ```bash
 rm -rf /
@@ -31,11 +31,11 @@ rm -rf /
 Solve the challenge: 8 + 0 = ? (^C to cancel)
 ```
 
-## How does it work?
-`shellfirm` will evaluate all the shell commands behind the scenes.
-If a risky pattern is detected, you will immediately get a prompt with the relevant warning to verify your command.
+## ¿Cómo funciona?
+`shellfirm` evaluará todos los comandos de shell en segundo plano.
+Si se detecta un patrón riesgoso, recibirás inmediatamente un mensaje con la advertencia correspondiente para verificar tu comando.
 
-## Example
+## Ejemplo
 ![](./docs/media/example.gif)
 
 
