@@ -10,6 +10,8 @@
 <div align="center">
 <h1>Opppppsss <b>you</b> did it again? :scream: :scream: :cold_sweat:</h1>
 </div>
+<h1>Opppppsss <b>lo</b>¿hiciste de nuevo? :scream: :scream: :cold_sweat:</h1>
+</div>
 
 ¿Cómo me salvo de mí mismo?
 * `rm -rf *`
